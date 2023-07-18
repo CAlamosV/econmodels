@@ -1,1 +1,1 @@
-# My Project
+# Visualize Economics Models
